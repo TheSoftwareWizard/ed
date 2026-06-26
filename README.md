@@ -55,6 +55,10 @@ it should be quick because it's a kb sized file
 - expand verbose output
 - make a man entry | instructions reffering to the man entry exist in the code, should quickly resolve the lack of one
 
+## License
 
+[![License: GPL v3](https://shields.io)](https://gnu.org)
 
+This project is licensed under the GPLv3 License. See the [LICENSE](LICENSE) file for details.
 
+Copyright (C) 2026 @TheSoftwareWizard
