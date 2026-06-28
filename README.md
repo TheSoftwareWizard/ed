@@ -1,4 +1,5 @@
 # ed
+NOTE: README IS OUTDATE!!! will update tommorow
 a tool i build to edit my nixos config (there's probably a better way)
 
 ### requirements
