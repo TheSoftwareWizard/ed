@@ -52,7 +52,7 @@ to compile from source clone this repo then build 'ed.go' with ```go build ed.go
 
 ## License
 
-[![License: GPL v3](https://shields.io)](https://gnu.org)
+[License: GPL v3](https://gnu.org/licenses/gpl-3.0.en.html)
 
 This project is licensed under the GPLv3 License. See the [LICENSE](LICENSE) file for details.
 
